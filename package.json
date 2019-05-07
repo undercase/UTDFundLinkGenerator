@@ -2,6 +2,7 @@
   "name": "utdfundlinkgenerator",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://thomashobohm.com/UTDFundLinkGenerator",
   "dependencies": {
     "querystring": "^0.2.0",
     "react": "^16.8.6",
