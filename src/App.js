@@ -242,7 +242,8 @@ export default class App extends Component {
           {designationCheckboxes}
         </div>
         <div className="uri">
-          <h3>Your URI: <a href={this.buildURI()}>{this.buildURI()}</a></h3>
+          <h3>Here's your Custom URL</h3>
+          <a href={this.buildURI()}>{this.buildURI()}</a>
         </div>
       </div>
     );

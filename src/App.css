@@ -1,0 +1,48 @@
+.App {
+  width: 100%;
+  max-width: 700px;
+  margin: auto;
+}
+
+.App h1 {
+  text-align: center;
+}
+
+.App a {
+  text-decoration: underline;
+  color: inherit;
+  opacity: 0.8;
+  transition: all .2s ease-in-out;
+}
+
+.App a:hover {
+  opacity: 1;
+}
+
+.uri {
+  margin: 30px 0;
+  padding: 15px;
+  padding-bottom: 25px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  background: #7f7f7f;
+  color: #fff;
+  text-align: center;
+}
+
+.uri h3 {
+  margin-top: 0;
+  padding-top: 0;
+  margin-bottom: 15px;
+  font-size: 2.5em;
+}
+
+.uri h4 {
+  font-size: 1.25em;
+}
+
+.uri a {
+  text-align: left;
+  display: block;
+  padding: 0 40px;
+}
